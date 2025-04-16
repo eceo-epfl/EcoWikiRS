@@ -1,22 +1,22 @@
-<h1 style="text-align: center;"> :frog: :herb: WikiRS: Learning Ecological Representation of Satellite Images from Weak
+<h1 style="text-align: center;"> :frog: :herb: EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak
 Supervision with Species Observations and Wikipedia</h1>
 
-<a href="https://orcid.org/0009-0008-1527-3913">Valerie Zermatten <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0001-5607-4445"> Javiera Castillo-Navarro <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0002-1731-8993">Pallavi Jain <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,
-<a href="https://orcid.org/0000-0001-5607-4445"> Diego Marcos <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0003-0374-2459"> Devis Tuia<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
+<a href="https://orcid.org/0009-0008-1527-3913">Valerie Zermatten <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0001-5607-4445"> Javiera Castillo-Navarro <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0002-1731-8993">Pallavi Jain <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0003-0374-2459"> Devis Tuia<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
+<a href="https://orcid.org/0000-0001-5607-4445"> Diego Marcos <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,
 
 The WikiRS dataset and model weights are available on Zenodo : [![DOI:10.1016/j.isprsjprs.2025.01.006](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1016/j.isprsjprs.2025.01.006) 
 
 <h2>News</h2>
 
-April 2025 : :tada: :tada: :taco: WikiRS was accepted for publication in the **EARTHVISION 2025 Workshop** in conjuction with the **Computer Vision and Pattern Recognition (CVPR) 2025 Conference**.
+April 2025 : :tada: :tada: EcoWikiRS was accepted for publication in the **EARTHVISION 2025 Workshop** in conjuction with the **Computer Vision and Pattern Recognition (CVPR) 2025 Conference**.
 
 
 How to cite the work : 
 
 ```
 @InProceedings{Zermatten_2025_WikiRS,
-    author    = { Zermatten, Valerie and Castillo-Navarro, Javiera and Jain, Pallavi and Marcos, Diego  and Tuia, Devis},
-    title     = {WikiRS: Learning Ecological Representation of Satellite Images from Weak
+    author    = { Zermatten, Valerie and Castillo-Navarro, Javiera and Jain, Pallavi   and Tuia, Devis and Marcos, Diego},
+    title     = {EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak
 Supervision with Species Observations and Wikipedia},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
