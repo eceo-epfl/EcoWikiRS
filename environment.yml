@@ -1,0 +1,17 @@
+name: testenv
+channels:
+  - defaults
+dependencies:
+  - transformers
+  - pytorch==2.2.0
+  - tqdm
+  - pandas
+  - tifffile
+  - beautifulsoup4
+  - ipykernel
+  - torchvision
+  - tokenizers
+  - python==3.10.13
+  - scikit-learn
+  - conda-forge::wandb
+prefix: /home/valerie/anaconda3/envs/testenv
