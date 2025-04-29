@@ -2,9 +2,14 @@
 Supervision with Species Observations and Wikipedia</h1>
 
 <a href="https://orcid.org/0009-0008-1527-3913">Valerie Zermatten <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0001-5607-4445"> Javiera Castillo-Navarro <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0002-1731-8993">Pallavi Jain <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,<a href="https://orcid.org/0000-0003-0374-2459"> Devis Tuia<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
-<a href="https://orcid.org/0000-0001-5607-4445"> Diego Marcos <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,
+<a href="https://orcid.org/0000-0001-5607-4445"> Diego Marcos <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
 
-The WikiRS dataset and model weights are available on Zenodo : [![DOI:10.1016/j.isprsjprs.2025.01.006](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1016/j.isprsjprs.2025.01.006) 
+
+[![ArXiv](https://img.shields.io/badge/arXiv-2503.20871-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.19742)
+[![Hugging Face (coming soon)](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/datasets/Silin1590/VinaBench)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13121149.svg)](https://zenodo.org/records/15236742)
+
+
 
 <h2>News</h2>
 
@@ -53,10 +58,10 @@ More training options  are provided in the `run.sh` file.
 We propose a method to **learn ecological properties of aerial images** by learning an alignement with species habitat descriptions. 
 
 
-- We release the **WikiRS** dataset, composed of triplets :
+- We release the **EcoWikiRS** dataset, composed of triplets :
     - high-resolution aerial images (50cm, RGB bands)
     - a list of species observations collected from [**GBIF**](https://www.gbif.org/), geolocated within the footprint of the aerial image. 
-    - sentences describing the habitat of the observed species, extracted  from the corresponding Wikipedia article.
+    - sentences describing the habitat of the observed species, extracted  from the corresponding **Wikipedia** article.
 
 
 <p align="center">
@@ -112,7 +117,7 @@ Checkout the paper to learn more !
 
 
 <h2>WikiRS dataset </h2>
-Model weights and the dataset can be retrieved from zenodo: 
+The EcoWikiRS dataset can be retrieved from zenodo: 
 
 [![DOI:10.1016/j.isprsjprs.2025.01.006](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1016/j.isprsjprs.2025.01.006)
 
