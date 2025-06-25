@@ -6,7 +6,7 @@ Supervision with Species Observations and Wikipedia</h1>
 
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2503.20871-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.19742)
-[![Hugging Face (coming soon)](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/datasets/Silin1590/VinaBench)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13121149.svg)](https://zenodo.org/records/15236742)
 
 
